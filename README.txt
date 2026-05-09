@@ -1,4 +1,6 @@
-Infinite Loader bot
+Infinite Loader Daily Free Trail Keys Bot 
+Owner Mr SHOAIB 
+TG @mr_shoaib_gamer
 
 Files:
 - bot.py
